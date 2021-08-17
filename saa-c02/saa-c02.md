@@ -81,7 +81,7 @@ A weather forecast agency collects key weather metrics across multiple cities in
 
 As a solutions architect, which of the following AWS services would you use to build a solution for processing and then reliably storing this data with high availability? (Select two)
 
-![](./assets/{110767B4-EB2F-494D-9D84-D474F7EBDD6E}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{110767B4-EB2F-494D-9D84-D474F7EBDD6E}.png)
 
 <details><summary>Explanation</summary>
 
@@ -115,7 +115,7 @@ A retail company uses Amazon EC2 instances, API Gateway, Amazon RDS, Elastic Loa
 
 Which of the following would you identify as data sources supported by GuardDuty?
 
-![](./assets/{88DD7647-5AAE-4FA3-8DDB-4561FB174C36}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{88DD7647-5AAE-4FA3-8DDB-4561FB174C36}.png)
 
 <details><summary>Explanation</summary>
 
@@ -151,7 +151,7 @@ A Big Data analytics company wants to set up an AWS cloud architecture that thro
 
 Which of the following services can be used to support this requirement?
 
-![](./assets/{E1BC8714-D887-4F5C-A84B-ADEBEEFC6039}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{E1BC8714-D887-4F5C-A84B-ADEBEEFC6039}.png)
 
 <details><summary>Explanation</summary>
 
@@ -187,7 +187,7 @@ An IT company provides S3 bucket access to specific users within the same accoun
 
 As a Solutions Architect, which of the following would you suggest as the MOST optimized way of controlling access for this use-case?
 
-![](./assets/{1DB63F7E-0F20-4E5B-8A3F-E683F2D7939A}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{1DB63F7E-0F20-4E5B-8A3F-E683F2D7939A}.png)
 
 <details><summary>Explanation</summary>
 
@@ -221,7 +221,7 @@ A company manages a multi-tier social media application that runs on EC2 instanc
 
 Which of the following solutions would you recommend for the given use-case? (Select two)
 
-![](./assets/{F5F5797D-3CBF-4952-BFCE-993CB62E4091}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{F5F5797D-3CBF-4952-BFCE-993CB62E4091}.png)
 
 <details><summary>Explanation</summary>
 
@@ -265,7 +265,7 @@ A cybersecurity company uses a fleet of EC2 instances to run a proprietary appli
 
 Which of the following services would you use for building a solution with the LEAST amount of development effort? (Select two)
 
-![](./assets/{20F9DFF3-36CE-4A89-B114-A54DD2F9C226}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{20F9DFF3-36CE-4A89-B114-A54DD2F9C226}.png)
 
 <details><summary>Explanation</summary>
 
@@ -299,7 +299,7 @@ A leading online gaming company is migrating its flagship application to AWS Clo
 
 As a solutions architect, can you help the engineering team understand the correct routing mechanism for these target instances?
 
-![](./assets/{E850F114-506D-4F0F-9CB7-2643F011E492}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{E850F114-506D-4F0F-9CB7-2643F011E492}.png)
 
 <details><summary>Explanation</summary>
 
@@ -335,7 +335,7 @@ A medium-sized business has a taxi dispatch application deployed on an EC2 insta
 
 Which of the following is the MOST cost-optimal and resource-efficient way to implement an automated solution until a permanent fix is delivered by the development team?
 
-![](./assets/{7FC652E2-DCBD-4E21-8CBF-6CFDB5CD4C40}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{7FC652E2-DCBD-4E21-8CBF-6CFDB5CD4C40}.png)
 
 <details><summary>Explanation</summary>
 
@@ -369,7 +369,7 @@ Your company is deploying a website running on Elastic Beanstalk. The website ta
 
 As a Solutions Architect, you would like to bring the time to create a new Instance in your Elastic Beanstalk deployment to be less than 2 minutes. What do you recommend? (Select two)
 
-![](./assets/{A3611896-0022-48A6-A87A-77D7AA21C59B}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{A3611896-0022-48A6-A87A-77D7AA21C59B}.png)
 
 <details><summary>Explanation</summary>
 
@@ -413,7 +413,7 @@ A pharma company is working on developing a vaccine for the COVID-19 virus. The 
 
 As a solutions architect, which of the following AWS services would you recommend for this task?
 
-![](./assets/{05C41C08-B04B-41AF-A774-0BD6B3C81352}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{05C41C08-B04B-41AF-A774-0BD6B3C81352}.png)
 
 <details><summary>Explanation</summary>
 
@@ -453,7 +453,7 @@ Your company runs a website for evaluating coding skills. As a Solutions Archite
 
 As a solutions architect, which of the following options would you recommend?
 
-![](./assets/{CFD54A1C-A6A7-4D24-BD8B-3CCF3C7CEFDE}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{CFD54A1C-A6A7-4D24-BD8B-3CCF3C7CEFDE}.png)
 
 <details><summary>Explanation</summary>
 
@@ -491,7 +491,7 @@ A Big Data analytics company writes data and log files in Amazon S3 buckets. The
 
 As a Solutions Architect, which of the following would you suggest as the fastest possible way of building a solution for this requirement?
 
-![](./assets/{956D752B-890F-4F77-9FB7-CCD8FE11623C}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{956D752B-890F-4F77-9FB7-CCD8FE11623C}.png)
 
 <details><summary>Explanation</summary>
 
@@ -525,7 +525,7 @@ An e-commerce company has copied 1 PB of data from its on-premises data center t
 
 As a Solutions Architect, which of the following would you recommend to accomplish this?
 
-![](./assets/{5DE0F84A-26D5-4B8D-8AB4-7461423F49C6}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{5DE0F84A-26D5-4B8D-8AB4-7461423F49C6}.png)
 
 <details><summary>Explanation</summary>
 
@@ -563,7 +563,7 @@ The engineering team at an e-commerce company has been tasked with migrating to 
 
 As a Solutions Architect, which of the following options would you identify as correct for the given requirement? (Select three)
 
-![](./assets/{F12EC4B5-3563-4548-898C-B97CC188393A}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{F12EC4B5-3563-4548-898C-B97CC188393A}.png)
 
 <details><summary>Explanation</summary>
 
@@ -603,7 +603,7 @@ An Electronic Design Automation (EDA) application produces massive volumes of da
 
 Which of the following AWS services is BEST suited to accelerate the aforementioned chip design process?
 
-![](./assets/{6AB3927C-F84B-421B-9529-A6F24D28C06E}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{6AB3927C-F84B-421B-9529-A6F24D28C06E}.png)
 
 <details><summary>Explanation</summary>
 
@@ -637,7 +637,7 @@ A company has moved its business critical data to Amazon EFS file system which w
 
 As an AWS Certified Solutions Architect Associate, which of the following would you recommend to exercise access control such that only the permitted EC2 instances can read from the EFS file system? (Select three)
 
-![](./assets/{B9BFBFB3-9AE4-4887-9C9B-938807DC1002}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{B9BFBFB3-9AE4-4887-9C9B-938807DC1002}.png)
 
 <details><summary>Explanation</summary>
 
@@ -675,7 +675,7 @@ A company runs its EC2 servers behind an Application Load Balancer along with an
 
 Which of the following options can be used to enable this custom action?
 
-![](./assets/{29FC471E-4DE2-4D35-977B-AB8582287791}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{29FC471E-4DE2-4D35-977B-AB8582287791}.png)
 
 <details><summary>Explanation</summary>
 
@@ -709,7 +709,7 @@ An Elastic Load Balancer has marked all the EC2 instances in the target group as
 
 What could be the reason the instances are being marked as unhealthy? (Select two)
 
-![](./assets/{96FCB82C-A08D-47D7-9F61-D18E9953DD3B}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{96FCB82C-A08D-47D7-9F61-D18E9953DD3B}.png)
 
 <details><summary>Explanation</summary>
 
@@ -749,7 +749,7 @@ The DevOps team at an IT company is provisioning a two-tier application in a VPC
 
 As a solutions architect, which of the following options would you identify as CORRECT? (Select three)
 
-![](./assets/{61D71D94-9C8E-4E3C-8527-74ABCE2A913E}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{61D71D94-9C8E-4E3C-8527-74ABCE2A913E}.png)
 
 <details><summary>Explanation</summary>
 
@@ -793,7 +793,7 @@ The engineering team at an e-commerce company is working on cost optimizations f
 
 Which of the following options would allow the engineering team to provision the instances for this use-case?
 
-![](./assets/{98F3BA41-D6F2-488B-851C-E1627970A881}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{98F3BA41-D6F2-488B-851C-E1627970A881}.png)
 
 <details><summary>Explanation</summary>
 
@@ -831,7 +831,7 @@ A financial services company is looking to move its on-premises IT infrastructur
 
 As a solutions architect, which of the following would you recommend as the MOST cost-effective solution?
 
-![](./assets/{6074730C-A9F5-4FC1-95CE-0789D1855D9A}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{6074730C-A9F5-4FC1-95CE-0789D1855D9A}.png)
 
 <details><summary>Explanation</summary>
 
@@ -875,7 +875,7 @@ A news network uses Amazon S3 to aggregate the raw video footage from its report
 
 Which of the following are the MOST cost-effective options to improve the file upload speed into S3? (Select two)
 
-![](./assets/{3EC5B2D6-9BAA-4A5D-9932-802EDD28E2AB}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{3EC5B2D6-9BAA-4A5D-9932-802EDD28E2AB}.png)
 
 <details><summary>Explanation</summary>
 
@@ -907,7 +907,7 @@ A media agency stores its re-creatable assets on Amazon S3 buckets. The assets a
 
 As a Solutions Architect, can you suggest a way to lower the storage costs while fulfilling the business requirements?
 
-![](./assets/{A3F81FD3-56DF-4131-889F-55C0102AE190}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{A3F81FD3-56DF-4131-889F-55C0102AE190}.png)
 
 <details><summary>Explanation</summary>
 
@@ -945,7 +945,7 @@ A cyber security company is running a mission critical application using a singl
 
 How many Availability Zones (AZs) will the company need to deploy these EC2 instances per the given use-case?
 
-![](./assets/{C2DAC63B-0F15-4676-8D96-A38AF0B6EE2C}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{C2DAC63B-0F15-4676-8D96-A38AF0B6EE2C}.png)
 
 <details><summary>Explanation</summary>
 
