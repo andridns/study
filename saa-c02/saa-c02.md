@@ -30,6 +30,7 @@
     - [1.1.24. Question 60: Incorrect](#1124-question-60-incorrect)
     - [1.1.25. Question 64: Incorrect](#1125-question-64-incorrect)
 </details>
+<div style="page-break-after: always"></div>
 
 ## 1.1. SAA-C02 Stephane Maarek Practice Exam
 
