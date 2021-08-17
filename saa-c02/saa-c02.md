@@ -39,7 +39,7 @@ A retail company wants to rollout and test a blue-green deployment for its globa
 
 As a Solutions Architect, which of the following options would you recommend to test the deployment on as many users as possible in the given time frame?
 
-![](assets/{D75998E0-D74C-4255-8FDD-EA19167CA301}.png)
+![](assets/{875EA119-30BB-4E0F-8393-03FF5658FF8F}.png)
 
 <details><summary>Explanation</summary>
 
@@ -73,12 +73,13 @@ https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#ro
 </details>
 <div style="page-break-after: always"></div>
 
-
 ### 1.1.2. Question 13: Incorrect
 
 A weather forecast agency collects key weather metrics across multiple cities in the US and sends this data in the form of key-value pairs to AWS Cloud at a one-minute frequency.
 
 As a solutions architect, which of the following AWS services would you use to build a solution for processing and then reliably storing this data with high availability? (Select two)
+
+![](./assets/{110767B4-EB2F-494D-9D84-D474F7EBDD6E}.png)
 
 <details><summary>Explanation</summary>
 
@@ -111,6 +112,8 @@ https://aws.amazon.com/lambda/faqs/
 A retail company uses Amazon EC2 instances, API Gateway, Amazon RDS, Elastic Load Balancer and CloudFront services. To improve the security of these services, the Risk Advisory group has suggested a feasibility check for using the Amazon GuardDuty service.
 
 Which of the following would you identify as data sources supported by GuardDuty?
+
+![]()
 
 <details><summary>Explanation</summary>
 
@@ -146,6 +149,8 @@ A Big Data analytics company wants to set up an AWS cloud architecture that thro
 
 Which of the following services can be used to support this requirement?
 
+![]()
+
 <details><summary>Explanation</summary>
 
 Correct option:
@@ -180,6 +185,8 @@ An IT company provides S3 bucket access to specific users within the same accoun
 
 As a Solutions Architect, which of the following would you suggest as the MOST optimized way of controlling access for this use-case?
 
+![]()
+
 <details><summary>Explanation</summary>
 
 Correct option:
@@ -211,6 +218,8 @@ https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf
 A company manages a multi-tier social media application that runs on EC2 instances behind an Application Load Balancer. The instances run in an EC2 Auto Scaling group across multiple Availability Zones and use an Amazon Aurora database. As a solutions architect, you have been tasked to make the application more resilient to periodic spikes in request rates.
 
 Which of the following solutions would you recommend for the given use-case? (Select two)
+
+![]()
 
 <details><summary>Explanation</summary>
 
@@ -254,6 +263,8 @@ A cybersecurity company uses a fleet of EC2 instances to run a proprietary appli
 
 Which of the following services would you use for building a solution with the LEAST amount of development effort? (Select two)
 
+![]()
+
 <details><summary>Explanation</summary>
 
 Correct options:
@@ -285,6 +296,8 @@ https://aws.amazon.com/sns/
 A leading online gaming company is migrating its flagship application to AWS Cloud for delivering its online games to users across the world. The company would like to use a Network Load Balancer (NLB) to handle millions of requests per second. The engineering team has provisioned multiple instances in a public subnet and specified these instance IDs as the targets for the NLB.
 
 As a solutions architect, can you help the engineering team understand the correct routing mechanism for these target instances?
+
+![]()
 
 <details><summary>Explanation</summary>
 
@@ -320,6 +333,8 @@ A medium-sized business has a taxi dispatch application deployed on an EC2 insta
 
 Which of the following is the MOST cost-optimal and resource-efficient way to implement an automated solution until a permanent fix is delivered by the development team?
 
+![]()
+
 <details><summary>Explanation</summary>
 
 Correct option:
@@ -351,6 +366,8 @@ https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/UsingAlarmActions
 Your company is deploying a website running on Elastic Beanstalk. The website takes over 45 minutes for the installation and contains both static as well as dynamic files that must be generated during the installation process.
 
 As a Solutions Architect, you would like to bring the time to create a new Instance in your Elastic Beanstalk deployment to be less than 2 minutes. What do you recommend? (Select two)
+
+![]()
 
 <details><summary>Explanation</summary>
 
@@ -394,6 +411,8 @@ A pharma company is working on developing a vaccine for the COVID-19 virus. The 
 
 As a solutions architect, which of the following AWS services would you recommend for this task?
 
+![]()
+
 <details><summary>Explanation</summary>
 
 Correct option:
@@ -432,6 +451,8 @@ Your company runs a website for evaluating coding skills. As a Solutions Archite
 
 As a solutions architect, which of the following options would you recommend?
 
+![]()
+
 <details><summary>Explanation</summary>
 
 Correct option:
@@ -468,6 +489,8 @@ A Big Data analytics company writes data and log files in Amazon S3 buckets. The
 
 As a Solutions Architect, which of the following would you suggest as the fastest possible way of building a solution for this requirement?
 
+![]()
+
 <details><summary>Explanation</summary>
 
 Correct option:
@@ -499,6 +522,8 @@ https://aws.amazon.com/blogs/big-data/streaming-data-from-amazon-s3-to-amazon-ki
 An e-commerce company has copied 1 PB of data from its on-premises data center to an Amazon S3 bucket in the us-west-1 Region using an AWS Direct Connect link. The company now wants to copy the data to another S3 bucket in the us-east-1 Region. The on-premises data center does not allow the use of AWS Snowball.
 
 As a Solutions Architect, which of the following would you recommend to accomplish this?
+
+![]()
 
 <details><summary>Explanation</summary>
 
@@ -535,6 +560,8 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html
 The engineering team at an e-commerce company has been tasked with migrating to a serverless architecture. The team wants to focus on the key points of consideration when using Lambda as a backbone for this architecture.
 
 As a Solutions Architect, which of the following options would you identify as correct for the given requirement? (Select three)
+
+![]()
 
 <details><summary>Explanation</summary>
 
@@ -574,6 +601,8 @@ An Electronic Design Automation (EDA) application produces massive volumes of da
 
 Which of the following AWS services is BEST suited to accelerate the aforementioned chip design process?
 
+![]()
+
 <details><summary>Explanation</summary>
 
 Correct option:
@@ -605,6 +634,8 @@ https://aws.amazon.com/fsx/windows/faqs/
 A company has moved its business critical data to Amazon EFS file system which will be accessed by multiple EC2 instances.
 
 As an AWS Certified Solutions Architect Associate, which of the following would you recommend to exercise access control such that only the permitted EC2 instances can read from the EFS file system? (Select three)
+
+![]()
 
 <details><summary>Explanation</summary>
 
@@ -642,6 +673,8 @@ A company runs its EC2 servers behind an Application Load Balancer along with an
 
 Which of the following options can be used to enable this custom action?
 
+![]()
+
 <details><summary>Explanation</summary>
 
 Correct option:
@@ -673,6 +706,8 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/lifecycle-hooks.html
 An Elastic Load Balancer has marked all the EC2 instances in the target group as unhealthy. Surprisingly, when a developer enters the IP address of the EC2 instances in the web browser, he can access the website.
 
 What could be the reason the instances are being marked as unhealthy? (Select two)
+
+![]()
 
 <details><summary>Explanation</summary>
 
@@ -711,6 +746,8 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/application/target-group
 The DevOps team at an IT company is provisioning a two-tier application in a VPC with a public subnet and a private subnet. The team wants to use either a NAT instance or a NAT gateway in the public subnet to enable instances in the private subnet to initiate outbound IPv4 traffic to the internet but needs some technical assistance in terms of the configuration options available for the NAT instance and the NAT gateway.
 
 As a solutions architect, which of the following options would you identify as CORRECT? (Select three)
+
+![]()
 
 <details><summary>Explanation</summary>
 
@@ -754,6 +791,8 @@ The engineering team at an e-commerce company is working on cost optimizations f
 
 Which of the following options would allow the engineering team to provision the instances for this use-case?
 
+![]()
+
 <details><summary>Explanation</summary>
 
 Correct option:
@@ -789,6 +828,8 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/LaunchConfiguration.html
 A financial services company is looking to move its on-premises IT infrastructure to AWS Cloud. The company has multiple long-term server bound licenses across the application stack and the CTO wants to continue to utilize those licenses while moving to AWS.
 
 As a solutions architect, which of the following would you recommend as the MOST cost-effective solution?
+
+![]()
 
 <details><summary>Explanation</summary>
 
@@ -832,6 +873,8 @@ A news network uses Amazon S3 to aggregate the raw video footage from its report
 
 Which of the following are the MOST cost-effective options to improve the file upload speed into S3? (Select two)
 
+![]()
+
 <details><summary>Explanation</summary>
 
 Correct options:
@@ -861,6 +904,8 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/uploadobjusingmpu.html
 A media agency stores its re-creatable assets on Amazon S3 buckets. The assets are accessed by a large number of users for the first few days and the frequency of access falls down drastically after a week. Although the assets would be accessed occasionally after the first week, but they must continue to be immediately accessible when required. The cost of maintaining all the assets on S3 storage is turning out to be very expensive and the agency is looking at reducing costs as much as possible.
 
 As a Solutions Architect, can you suggest a way to lower the storage costs while fulfilling the business requirements?
+
+![]()
 
 <details><summary>Explanation</summary>
 
@@ -897,6 +942,8 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/lifecycle-transition-general-con
 A cyber security company is running a mission critical application using a single Spread placement group of EC2 instances. The company needs 15 Amazon EC2 instances for optimal performance.
 
 How many Availability Zones (AZs) will the company need to deploy these EC2 instances per the given use-case?
+
+![]()
 
 <details><summary>Explanation</summary>
 
