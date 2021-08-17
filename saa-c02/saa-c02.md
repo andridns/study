@@ -4,37 +4,38 @@
 
 - [1. AWS Solutions Architect Associate - SAA-C02](#1-aws-solutions-architect-associate---saa-c02)
   - [1.1. SAA-C02 Stephane Maarek Practice Exam](#11-saa-c02-stephane-maarek-practice-exam)
-    - [1.1.1. Question 2: Incorrect](#111-question-2-incorrect)
-    - [1.1.2. Question 13: Incorrect](#112-question-13-incorrect)
-    - [1.1.3. Question 16: Incorrect](#113-question-16-incorrect)
-    - [1.1.4. Question 19: Incorrect](#114-question-19-incorrect)
-    - [1.1.5. Question 21: Incorrect](#115-question-21-incorrect)
-    - [1.1.6. Question 24: Incorrect](#116-question-24-incorrect)
-    - [1.1.7. Question 27: Incorrect](#117-question-27-incorrect)
-    - [1.1.8. Question 28: Incorrect](#118-question-28-incorrect)
-    - [1.1.9. Question 34: Incorrect](#119-question-34-incorrect)
-    - [1.1.10. Question 36: Incorrect](#1110-question-36-incorrect)
-    - [1.1.11. Question 37: Incorrect](#1111-question-37-incorrect)
-    - [1.1.12. Question 39: Incorrect](#1112-question-39-incorrect)
-    - [1.1.13. Question 41: Incorrect](#1113-question-41-incorrect)
-    - [1.1.14. Question 43: Incorrect](#1114-question-43-incorrect)
-    - [1.1.15. Question 44: Incorrect](#1115-question-44-incorrect)
-    - [1.1.16. Question 46: Incorrect](#1116-question-46-incorrect)
-    - [1.1.17. Question 47: Incorrect](#1117-question-47-incorrect)
-    - [1.1.18. Question 48: Incorrect](#1118-question-48-incorrect)
-    - [1.1.19. Question 51: Incorrect](#1119-question-51-incorrect)
-    - [1.1.20. Question 53: Incorrect](#1120-question-53-incorrect)
-    - [1.1.21. Question 55: Incorrect](#1121-question-55-incorrect)
-    - [1.1.22. Question 57: Incorrect](#1122-question-57-incorrect)
-    - [1.1.23. Question 58: Incorrect](#1123-question-58-incorrect)
-    - [1.1.24. Question 60: Incorrect](#1124-question-60-incorrect)
-    - [1.1.25. Question 64: Incorrect](#1125-question-64-incorrect)
+    - [1.1.1](#111)
+    - [1.1.2](#112)
+    - [1.1.3](#113)
+    - [1.1.4](#114)
+    - [1.1.5](#115)
+    - [1.1.6](#116)
+    - [1.1.7](#117)
+    - [1.1.8](#118)
+    - [1.1.9](#119)
+    - [1.1.10](#1110)
+    - [1.1.11](#1111)
+    - [1.1.12](#1112)
+    - [1.1.13](#1113)
+    - [1.1.14](#1114)
+    - [1.1.15](#1115)
+    - [1.1.16](#1116)
+    - [1.1.17](#1117)
+    - [1.1.18](#1118)
+    - [1.1.19](#1119)
+    - [1.1.20](#1120)
+    - [1.1.21](#1121)
+    - [1.1.22](#1122)
+    - [1.1.23](#1123)
+    - [1.1.24](#1124)
+    - [1.1.25](#1125)
+
 </details>
 <div style="page-break-after: always"></div>
 
 ## 1.1. SAA-C02 Stephane Maarek Practice Exam
 
-### 1.1.1. Question 2: Incorrect
+### 1.1.1
 
 A retail company wants to rollout and test a blue-green deployment for its global application in the next 48 hours. Most of the customers use mobile phones which are prone to DNS caching. The company has only two days left for the annual Thanksgiving sale to commence.
 
@@ -74,7 +75,7 @@ https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#ro
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.2. Question 13: Incorrect
+### 1.1.2
 
 A weather forecast agency collects key weather metrics across multiple cities in the US and sends this data in the form of key-value pairs to AWS Cloud at a one-minute frequency.
 
@@ -108,7 +109,7 @@ https://aws.amazon.com/lambda/faqs/
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.3. Question 16: Incorrect
+### 1.1.3
 
 A retail company uses Amazon EC2 instances, API Gateway, Amazon RDS, Elastic Load Balancer and CloudFront services. To improve the security of these services, the Risk Advisory group has suggested a feasibility check for using the Amazon GuardDuty service.
 
@@ -144,7 +145,7 @@ https://aws.amazon.com/guardduty/
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.4. Question 19: Incorrect
+### 1.1.4
 
 A Big Data analytics company wants to set up an AWS cloud architecture that throttles requests in case of sudden traffic spikes. The company is looking for AWS services that can be used for buffering or throttling to handle such traffic variations.
 
@@ -180,7 +181,7 @@ https://aws.amazon.com/sqs/features/
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.5. Question 21: Incorrect
+### 1.1.5
 
 An IT company provides S3 bucket access to specific users within the same account for completing project specific work. With changing business requirements, cross-account S3 access requests are also growing every month. The company is looking for a solution that can offer user level as well as account-level access permissions for the data stored in S3 buckets.
 
@@ -214,7 +215,7 @@ https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.6. Question 24: Incorrect
+### 1.1.6
 
 A company manages a multi-tier social media application that runs on EC2 instances behind an Application Load Balancer. The instances run in an EC2 Auto Scaling group across multiple Availability Zones and use an Amazon Aurora database. As a solutions architect, you have been tasked to make the application more resilient to periodic spikes in request rates.
 
@@ -240,7 +241,7 @@ CloudFront offers an origin failover feature to help support your data resilienc
 
 Incorrect options:
 
-* Use AWS Shield* - AWS Shield is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS. AWS Shield provides always-on detection and automatic inline mitigations that minimize application downtime and latency. There are two tiers of AWS Shield - Standard and Advanced. Shield cannot be used to improve application resiliency to handle spikes in traffic.
+Use AWS Shield* - AWS Shield is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS. AWS Shield provides always-on detection and automatic inline mitigations that minimize application downtime and latency. There are two tiers of AWS Shield - Standard and Advanced. Shield cannot be used to improve application resiliency to handle spikes in traffic.
 
 Use AWS Global Accelerator - AWS Global Accelerator is a service that improves the availability and performance of your applications with local or global users. It provides static IP addresses that act as a fixed entry point to your application endpoints in a single or multiple AWS Regions, such as your Application Load Balancers, Network Load Balancers or Amazon EC2 instances. Global Accelerator is a good fit for non-HTTP use cases, such as gaming (UDP), IoT (MQTT), or Voice over IP, as well as for HTTP use cases that specifically require static IP addresses or deterministic, fast regional failover. Since CloudFront is better for improving application resiliency to handle spikes in traffic, so this option is ruled out.
 
@@ -258,7 +259,7 @@ https://docs.aws.amazon.com/global-accelerator/latest/dg/disaster-recovery-resil
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.7. Question 27: Incorrect
+### 1.1.7
 
 A cybersecurity company uses a fleet of EC2 instances to run a proprietary application. The infrastructure maintenance group at the company wants to be notified via an email whenever the CPU utilization for any of the EC2 instances breaches a certain threshold.
 
@@ -292,7 +293,7 @@ https://aws.amazon.com/sns/
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.8. Question 28: Incorrect
+### 1.1.8
 
 A leading online gaming company is migrating its flagship application to AWS Cloud for delivering its online games to users across the world. The company would like to use a Network Load Balancer (NLB) to handle millions of requests per second. The engineering team has provisioned multiple instances in a public subnet and specified these instance IDs as the targets for the NLB.
 
@@ -328,7 +329,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/network/load-balancer-ta
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.9. Question 34: Incorrect
+### 1.1.9
 
 A medium-sized business has a taxi dispatch application deployed on an EC2 instance. Because of an unknown bug, the application causes the instance to freeze regularly. Then, the instance has to be manually restarted via the AWS management console.
 
@@ -362,7 +363,7 @@ https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/UsingAlarmActions
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.10. Question 36: Incorrect
+### 1.1.10
 
 Your company is deploying a website running on Elastic Beanstalk. The website takes over 45 minutes for the installation and contains both static as well as dynamic files that must be generated during the installation process.
 
@@ -406,7 +407,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-add-user-data.h
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.11. Question 37: Incorrect
+### 1.1.11
 
 A pharma company is working on developing a vaccine for the COVID-19 virus. The researchers at the company want to process the reference healthcare data in an in-memory database that is highly available as well as HIPAA compliant.
 
@@ -446,7 +447,7 @@ https://aws.amazon.com/elasticache/redis/
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.12. Question 39: Incorrect
+### 1.1.12
 
 Your company runs a website for evaluating coding skills. As a Solutions Architect, you've designed the architecture of the website to follow a serverless pattern on the AWS Cloud using API Gateway and AWS Lambda. The backend is using an RDS PostgreSQL database. Caching is implemented using a Redis ElastiCache cluster. You would like to increase the security of your authentication to Redis from the Lambda function, leveraging a username and password combination.
 
@@ -484,7 +485,7 @@ https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/auth.html
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.13. Question 41: Incorrect
+### 1.1.13
 
 A Big Data analytics company writes data and log files in Amazon S3 buckets. The company now wants to stream the existing data files as well as any ongoing file updates from Amazon S3 to Amazon Kinesis Data Streams.
 
@@ -518,7 +519,7 @@ https://aws.amazon.com/blogs/big-data/streaming-data-from-amazon-s3-to-amazon-ki
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.14. Question 43: Incorrect
+### 1.1.14
 
 An e-commerce company has copied 1 PB of data from its on-premises data center to an Amazon S3 bucket in the us-west-1 Region using an AWS Direct Connect link. The company now wants to copy the data to another S3 bucket in the us-east-1 Region. The on-premises data center does not allow the use of AWS Snowball.
 
@@ -556,7 +557,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.15. Question 44: Incorrect
+### 1.1.15
 
 The engineering team at an e-commerce company has been tasked with migrating to a serverless architecture. The team wants to focus on the key points of consideration when using Lambda as a backbone for this architecture.
 
@@ -596,7 +597,7 @@ https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.16. Question 46: Incorrect
+### 1.1.16
 
 An Electronic Design Automation (EDA) application produces massive volumes of data that can be divided into two categories. The 'hot data' needs to be both processed and stored quickly in a parallel and distributed fashion. The 'cold data' needs to be kept for reference with quick access for reads and updates at a low cost.
 
@@ -630,7 +631,7 @@ https://aws.amazon.com/fsx/windows/faqs/
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.17. Question 47: Incorrect
+### 1.1.17
 
 A company has moved its business critical data to Amazon EFS file system which will be accessed by multiple EC2 instances.
 
@@ -668,7 +669,7 @@ https://docs.aws.amazon.com/efs/latest/ug/accessing-fs-nfs-permissions.html
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.18. Question 48: Incorrect
+### 1.1.18
 
 A company runs its EC2 servers behind an Application Load Balancer along with an Auto Scaling group. The engineers at the company want to be able to install proprietary tools on each instance and perform a pre-activation status check of these tools whenever an instance is provisioned because of a scale-out event from an auto-scaling policy.
 
@@ -702,7 +703,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/lifecycle-hooks.html
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.19. Question 51: Incorrect
+### 1.1.19
 
 An Elastic Load Balancer has marked all the EC2 instances in the target group as unhealthy. Surprisingly, when a developer enters the IP address of the EC2 instances in the web browser, he can access the website.
 
@@ -742,7 +743,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/application/target-group
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.20. Question 53: Incorrect
+### 1.1.20
 
 The DevOps team at an IT company is provisioning a two-tier application in a VPC with a public subnet and a private subnet. The team wants to use either a NAT instance or a NAT gateway in the public subnet to enable instances in the private subnet to initiate outbound IPv4 traffic to the internet but needs some technical assistance in terms of the configuration options available for the NAT instance and the NAT gateway.
 
@@ -786,7 +787,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-comparison.html
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.21. Question 55: Incorrect
+### 1.1.21
 
 The engineering team at an e-commerce company is working on cost optimizations for EC2 instances. The team wants to manage the workload using a mix of on-demand and spot instances across multiple instance types. They would like to create an Auto Scaling group with a mix of these instances.
 
@@ -824,7 +825,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/LaunchConfiguration.html
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.22. Question 57: Incorrect
+### 1.1.22
 
 A financial services company is looking to move its on-premises IT infrastructure to AWS Cloud. The company has multiple long-term server bound licenses across the application stack and the CTO wants to continue to utilize those licenses while moving to AWS.
 
@@ -868,7 +869,7 @@ https://aws.amazon.com/ec2/pricing/dedicated-instances/
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.23. Question 58: Incorrect
+### 1.1.23
 
 A news network uses Amazon S3 to aggregate the raw video footage from its reporting teams across the US. The news network has recently expanded into new geographies in Europe and Asia. The technical teams at the overseas branch offices have reported huge delays in uploading large video files to the destination S3 bucket.
 
@@ -900,7 +901,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/uploadobjusingmpu.html
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.24. Question 60: Incorrect
+### 1.1.24
 
 A media agency stores its re-creatable assets on Amazon S3 buckets. The assets are accessed by a large number of users for the first few days and the frequency of access falls down drastically after a week. Although the assets would be accessed occasionally after the first week, but they must continue to be immediately accessible when required. The cost of maintaining all the assets on S3 storage is turning out to be very expensive and the agency is looking at reducing costs as much as possible.
 
@@ -938,7 +939,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/lifecycle-transition-general-con
 </details>
 <div style="page-break-after: always"></div>
 
-### 1.1.25. Question 64: Incorrect
+### 1.1.25
 
 A cyber security company is running a mission critical application using a single Spread placement group of EC2 instances. The company needs 15 Amazon EC2 instances for optimal performance.
 
