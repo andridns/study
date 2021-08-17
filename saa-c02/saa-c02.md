@@ -263,7 +263,7 @@ A cybersecurity company uses a fleet of EC2 instances to run a proprietary appli
 
 Which of the following services would you use for building a solution with the LEAST amount of development effort? (Select two)
 
-![]()
+![](./assets/{20F9DFF3-36CE-4A89-B114-A54DD2F9C226}.png)
 
 <details><summary>Explanation</summary>
 
@@ -297,7 +297,7 @@ A leading online gaming company is migrating its flagship application to AWS Clo
 
 As a solutions architect, can you help the engineering team understand the correct routing mechanism for these target instances?
 
-![]()
+![](./assets/{E850F114-506D-4F0F-9CB7-2643F011E492}.png)
 
 <details><summary>Explanation</summary>
 
@@ -333,7 +333,7 @@ A medium-sized business has a taxi dispatch application deployed on an EC2 insta
 
 Which of the following is the MOST cost-optimal and resource-efficient way to implement an automated solution until a permanent fix is delivered by the development team?
 
-![]()
+![](./assets/{7FC652E2-DCBD-4E21-8CBF-6CFDB5CD4C40}.png)
 
 <details><summary>Explanation</summary>
 
@@ -367,7 +367,7 @@ Your company is deploying a website running on Elastic Beanstalk. The website ta
 
 As a Solutions Architect, you would like to bring the time to create a new Instance in your Elastic Beanstalk deployment to be less than 2 minutes. What do you recommend? (Select two)
 
-![]()
+![](./assets/{A3611896-0022-48A6-A87A-77D7AA21C59B}.png)
 
 <details><summary>Explanation</summary>
 
