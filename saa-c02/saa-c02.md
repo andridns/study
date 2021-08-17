@@ -113,7 +113,7 @@ A retail company uses Amazon EC2 instances, API Gateway, Amazon RDS, Elastic Loa
 
 Which of the following would you identify as data sources supported by GuardDuty?
 
-![]()
+![](./assets/{88DD7647-5AAE-4FA3-8DDB-4561FB174C36}.png)
 
 <details><summary>Explanation</summary>
 
@@ -149,7 +149,7 @@ A Big Data analytics company wants to set up an AWS cloud architecture that thro
 
 Which of the following services can be used to support this requirement?
 
-![]()
+![](./assets/{E1BC8714-D887-4F5C-A84B-ADEBEEFC6039}.png)
 
 <details><summary>Explanation</summary>
 
@@ -185,7 +185,7 @@ An IT company provides S3 bucket access to specific users within the same accoun
 
 As a Solutions Architect, which of the following would you suggest as the MOST optimized way of controlling access for this use-case?
 
-![]()
+![](./assets/{1DB63F7E-0F20-4E5B-8A3F-E683F2D7939A}.png)
 
 <details><summary>Explanation</summary>
 
@@ -219,7 +219,7 @@ A company manages a multi-tier social media application that runs on EC2 instanc
 
 Which of the following solutions would you recommend for the given use-case? (Select two)
 
-![]()
+![](./assets/{F5F5797D-3CBF-4952-BFCE-993CB62E4091}.png)
 
 <details><summary>Explanation</summary>
 
