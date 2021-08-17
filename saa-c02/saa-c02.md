@@ -41,7 +41,7 @@ A retail company wants to rollout and test a blue-green deployment for its globa
 
 As a Solutions Architect, which of the following options would you recommend to test the deployment on as many users as possible in the given time frame?
 
-![](assets/{875EA119-30BB-4E0F-8393-03FF5658FF8F}.png)
+![](https://raw.githubusercontent.com/andridns/study/main/saa-c02/assets/{875EA119-30BB-4E0F-8393-03FF5658FF8F}.png)
 
 <details><summary>Explanation</summary>
 
