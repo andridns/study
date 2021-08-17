@@ -984,5 +984,3 @@ Reference:
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
 </details>
 <div style="page-break-after: always"></div>
-
-Test diff
