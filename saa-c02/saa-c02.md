@@ -905,7 +905,7 @@ A media agency stores its re-creatable assets on Amazon S3 buckets. The assets a
 
 As a Solutions Architect, can you suggest a way to lower the storage costs while fulfilling the business requirements?
 
-![]()
+![](./assets/{A3F81FD3-56DF-4131-889F-55C0102AE190}.png)
 
 <details><summary>Explanation</summary>
 
@@ -943,7 +943,7 @@ A cyber security company is running a mission critical application using a singl
 
 How many Availability Zones (AZs) will the company need to deploy these EC2 instances per the given use-case?
 
-![]()
+![](./assets/{C2DAC63B-0F15-4676-8D96-A38AF0B6EE2C}.png)
 
 <details><summary>Explanation</summary>
 
