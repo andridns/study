@@ -411,7 +411,7 @@ A pharma company is working on developing a vaccine for the COVID-19 virus. The 
 
 As a solutions architect, which of the following AWS services would you recommend for this task?
 
-![]()
+![](./assets/{05C41C08-B04B-41AF-A774-0BD6B3C81352}.png)
 
 <details><summary>Explanation</summary>
 
@@ -451,7 +451,7 @@ Your company runs a website for evaluating coding skills. As a Solutions Archite
 
 As a solutions architect, which of the following options would you recommend?
 
-![]()
+![](./assets/{CFD54A1C-A6A7-4D24-BD8B-3CCF3C7CEFDE}.png)
 
 <details><summary>Explanation</summary>
 
@@ -489,7 +489,7 @@ A Big Data analytics company writes data and log files in Amazon S3 buckets. The
 
 As a Solutions Architect, which of the following would you suggest as the fastest possible way of building a solution for this requirement?
 
-![]()
+![](./assets/{956D752B-890F-4F77-9FB7-CCD8FE11623C}.png)
 
 <details><summary>Explanation</summary>
 
@@ -523,7 +523,7 @@ An e-commerce company has copied 1 PB of data from its on-premises data center t
 
 As a Solutions Architect, which of the following would you recommend to accomplish this?
 
-![]()
+![](./assets/{5DE0F84A-26D5-4B8D-8AB4-7461423F49C6}.png)
 
 <details><summary>Explanation</summary>
 
@@ -561,7 +561,7 @@ The engineering team at an e-commerce company has been tasked with migrating to 
 
 As a Solutions Architect, which of the following options would you identify as correct for the given requirement? (Select three)
 
-![]()
+![](./assets/{F12EC4B5-3563-4548-898C-B97CC188393A}.png)
 
 <details><summary>Explanation</summary>
 
@@ -601,7 +601,7 @@ An Electronic Design Automation (EDA) application produces massive volumes of da
 
 Which of the following AWS services is BEST suited to accelerate the aforementioned chip design process?
 
-![]()
+![](./assets/{6AB3927C-F84B-421B-9529-A6F24D28C06E}.png)
 
 <details><summary>Explanation</summary>
 
@@ -635,7 +635,7 @@ A company has moved its business critical data to Amazon EFS file system which w
 
 As an AWS Certified Solutions Architect Associate, which of the following would you recommend to exercise access control such that only the permitted EC2 instances can read from the EFS file system? (Select three)
 
-![]()
+![](./assets/{B9BFBFB3-9AE4-4887-9C9B-938807DC1002}.png)
 
 <details><summary>Explanation</summary>
 
@@ -673,7 +673,7 @@ A company runs its EC2 servers behind an Application Load Balancer along with an
 
 Which of the following options can be used to enable this custom action?
 
-![]()
+![](./assets/{29FC471E-4DE2-4D35-977B-AB8582287791}.png)
 
 <details><summary>Explanation</summary>
 
@@ -707,7 +707,7 @@ An Elastic Load Balancer has marked all the EC2 instances in the target group as
 
 What could be the reason the instances are being marked as unhealthy? (Select two)
 
-![]()
+![](./assets/{96FCB82C-A08D-47D7-9F61-D18E9953DD3B}.png)
 
 <details><summary>Explanation</summary>
 
@@ -747,7 +747,7 @@ The DevOps team at an IT company is provisioning a two-tier application in a VPC
 
 As a solutions architect, which of the following options would you identify as CORRECT? (Select three)
 
-![]()
+![](./assets/{61D71D94-9C8E-4E3C-8527-74ABCE2A913E}.png)
 
 <details><summary>Explanation</summary>
 
@@ -791,7 +791,7 @@ The engineering team at an e-commerce company is working on cost optimizations f
 
 Which of the following options would allow the engineering team to provision the instances for this use-case?
 
-![]()
+![](./assets/{98F3BA41-D6F2-488B-851C-E1627970A881}.png)
 
 <details><summary>Explanation</summary>
 
@@ -829,7 +829,7 @@ A financial services company is looking to move its on-premises IT infrastructur
 
 As a solutions architect, which of the following would you recommend as the MOST cost-effective solution?
 
-![]()
+![](./assets/{6074730C-A9F5-4FC1-95CE-0789D1855D9A}.png)
 
 <details><summary>Explanation</summary>
 
@@ -873,7 +873,7 @@ A news network uses Amazon S3 to aggregate the raw video footage from its report
 
 Which of the following are the MOST cost-effective options to improve the file upload speed into S3? (Select two)
 
-![]()
+![](./assets/{3EC5B2D6-9BAA-4A5D-9932-802EDD28E2AB}.png)
 
 <details><summary>Explanation</summary>
 
