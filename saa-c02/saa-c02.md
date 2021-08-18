@@ -3,7 +3,7 @@
 <details><summary>Table of Contents</summary>
 
 - [1. AWS Solutions Architect Associate - SAA-C02](#1-aws-solutions-architect-associate---saa-c02)
-  - [1.1. SAA-C02 Stephane Maarek Practice Exam](#11-saa-c02-stephane-maarek-practice-exam)
+  - [1.1. Stephane Maarek](#11-stephane-maarek)
     - [1.1.1](#111)
     - [1.1.2](#112)
     - [1.1.3](#113)
@@ -29,11 +29,14 @@
     - [1.1.23](#1123)
     - [1.1.24](#1124)
     - [1.1.25](#1125)
+  - [1.2. Neal Davis](#12-neal-davis)
+    - [1.2.1](#121)
+    - [1.2.2](#122)
 
 </details>
 <div style="page-break-after: always"></div>
 
-## 1.1. SAA-C02 Stephane Maarek Practice Exam
+## 1.1. Stephane Maarek
 
 ### 1.1.1
 
@@ -984,3 +987,74 @@ Reference:
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
 </details>
 <div style="page-break-after: always"></div>
+
+## 1.2. Neal Davis
+
+### 1.2.1
+
+The data scientists in your company are looking for a service that can process and analyze real-time, streaming data. They would like to use standard SQL queries to query the streaming data.
+
+Which combination of AWS services would deliver these requirements?
+
+- [ ] Kinesis Data Streams and Kinesis Firehose (Incorrect)
+- [x] Kinesis Data Streams and Kinesis Data Analytics (Correct)
+- [ ] ElastiCache and EMR
+- [ ] DynamoDB and EMR
+
+Explanation
+
+Kinesis Data Streams enables you to build custom applications that process or analyze streaming data for specialized needs. The diagram below shows the architecture of a Kinesis Data Streams application:
+
+Amazon Kinesis Data Analytics is the easiest way to process and analyze real-time, streaming data. Kinesis Data Analytics can use standard SQL queries to process Kinesis data streams and can ingest data from Kinesis Streams and Kinesis Firehose.
+
+CORRECT: "Kinesis Data Streams and Kinesis Data Analytics" is the correct answer.
+
+INCORRECT: "DynamoDB and EMR" is incorrect. DynamoDB is a NoSQL database that can be used for storing data from a stream but cannot be used to process or analyze the data or to query it with SQL queries. Elastic Map Reduce (EMR) is a hosted Hadoop framework and is not used for analytics on streaming data.
+
+INCORRECT: "ElastiCache and EMR" is incorrect as ElastiCache is an in-memory database cache service, it is not used for streaming data. Elastic Map Reduce (EMR) is a hosted Hadoop framework and is not used for analytics on streaming data.
+
+INCORRECT: "Kinesis Data Streams and Kinesis Firehose" is incorrect. Firehose cannot be used for running SQL queries.
+
+References:
+
+https://aws.amazon.com/kinesis/
+
+Save time with our exam-specific cheat sheets:
+
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
+
+### 1.2.2
+
+A company delivers content to subscribers distributed globally from an application running on AWS. The application uses a fleet of Amazon EC2 instance in a private subnet behind an Application Load Balancer (ALB). Due to an update in copyright restrictions, it is necessary to block access for specific countries.
+
+What is the EASIEST method to meet this requirement?
+
+- [x] Use Amazon CloudFront to serve the application and deny access to blocked countries
+- [ ] Use a network ACL to block the IP address ranges associated with the specific countries
+- [ ] Modify the ALB security group to deny incoming traffic from blocked countries
+- [ ] Modify the security group for EC2 instances to deny incoming traffic from
+blocked countries
+
+Explanation
+
+When a user requests your content, CloudFront typically serves the requested content regardless of where the user is located. If you need to prevent users in specific countries from accessing your content, you can use the CloudFront geo restriction feature to do one of the following:
+
+• Allow your users to access your content only if they're in one of the countries on a whitelist of approved countries.
+
+• Prevent your users from accessing your content if they're in one of the countries on a blacklist of banned countries.
+
+For example, if a request comes from a country where, for copyright reasons, you are not authorized to distribute your content, you can use CloudFront geo restriction to block the request.
+
+This is the easiest and most effective way to implement a geographic restriction for the delivery of content.
+
+CORRECT: "Use Amazon CloudFront to serve the application and deny access to blocked countries" is the correct answer.
+
+INCORRECT: "Use a Network ACL to block the IP address ranges associated with the specific countries" is incorrect as this would be extremely difficult to manage.
+
+INCORRECT: "Modify the ALB security group to deny incoming traffic from blocked countries" is incorrect as security groups cannot block traffic by country.
+
+INCORRECT: "Modify the security group for EC2 instances to deny incoming traffic from blocked countries" is incorrect as security groups cannot block traffic by country.
+
+References:
+
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/georestrictions.html
